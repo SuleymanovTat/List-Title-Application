@@ -1,3 +1,3 @@
 # List-Title-Application
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/SuleymanovTat/List-Title-Application/blob/master/image.jpg)
